@@ -1,1 +1,2 @@
 # Wolves_and_Chickens
+This program solves the Wolves and Chickens game where a player has to get wolves and chickens from one side of a river to the other without ever having more wolves than chickens on a given side. The program uses searches such as depth-first search, breadth-first search, iterative deepening depth-first search, and A* search to solve the problem in the lowest possible number of river crossings.
